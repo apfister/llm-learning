@@ -1,0 +1,13 @@
+langchain_core
+langchain_experimental
+langchain-openai
+langchain_postgres
+langchain_community
+langgraph
+langfuse
+arcgis
+fastapi[standard]
+gpt4all
+psycopg[binary]
+toml
+openai
