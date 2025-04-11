@@ -11,3 +11,4 @@ gpt4all
 psycopg[binary]
 toml
 openai
+bs4
