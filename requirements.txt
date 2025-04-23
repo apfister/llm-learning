@@ -12,3 +12,8 @@ psycopg[binary]
 toml
 openai
 bs4
+pymupdf4llm
+pyppeteer 
+nest_asyncio
+pygraphviz
+graphviz
